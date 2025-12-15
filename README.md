@@ -131,13 +131,94 @@ This project **does not redistribute proprietary services**, it only processes p
 
 ---
 
+## 🔌 API Access & Registry Loading
+
+This project exposes the IBAN Registry through a **REST API built with FastAPI**.  
+A **temporary public deployment** is available for testing and demonstration purposes.
+
+---
+
+### 🌐 Live API (Temporary – Render)
+
+The API is currently deployed on **Render** and is intended **only for testing and portfolio demonstration**.
+
+**Base URL**
+
+https://iban-registry-latest.onrender.com
+
+
+**OpenAPI Specification**
+
+https://iban-registry-latest.onrender.com/openapi.json
+
+
+**Swagger UI**
+
+https://iban-registry-latest.onrender.com/docs
+
+
+> ⚠️ **Important**  
+> This deployment is **temporary**.  
+> Availability, data persistence, and performance are **not guaranteed**.  
+> The service may be restarted, limited, or removed at any time.
+
+---
+
+### 📥 IBAN Registry TXT File
+
+To load data into the API, the official **IBAN Registry TXT file** is required.
+
+You can obtain it from the following sources:
+
+#### 🏛️ Official Source (Recommended)
+Maintained by **SWIFT**, the authoritative source of the IBAN Registry:
+
+https://www.swift.com/swift-resource/11971/download
+
+
+#### 📁 Repository Version (Convenience)
+A versioned copy is included in this repository for reproducibility and testing:
+
+https://github.com/juanrenatonoh/open-iban-registry/blob/main/docs/iban-registry.txt
+
+
+> ℹ️ The IBAN Registry data is publicly available and owned by **SWIFT**.  
+> This project only processes the data and does not claim ownership.
+
+---
+
+### 📘 Available API Endpoints
+
+Below is a high-level overview of the main API endpoints exposed by the service.
+
+| Method | Endpoint                         | Description |
+|------:|----------------------------------|-------------|
+| GET   | `/health`                        | Health check endpoint |
+| POST  | `/registry/upload`               | Loads and parses the IBAN registry TXT file into MongoDB |
+| GET   | `/registry/`                     | Get record from Iban Registry |
+| GET   | `/openapi.json`                  | OpenAPI specification |
+| GET   | `/docs`                          | Interactive Swagger UI |
+
+> Endpoint structure and responses may evolve as the project matures.
+
+---
+
+### 🚧 Usage Notes & Limitations
+
+- No authentication or authorization
+- No rate limiting
+- No SLA or uptime guarantees
+- Not suitable for production or financial operations
+
+This API is designed strictly for **educational, research, and portfolio use**.
+
 ## 👤 Author & Portfolio
 
 **Juan Renato Noh**  
 Software Engineer | Backend | APIs
 
 - 💼 LinkedIn: https://www.linkedin.com/in/juanrenatonoh/
-- 🌐 GitHub: https://github.com/juanrenatonoh/open-iban-registry
+- 🌐 Blog: https://juanrenatonoh.blogspot.com/
 
 This repository is part of my **professional portfolio**.
 
@@ -147,7 +228,7 @@ This repository is part of my **professional portfolio**.
 
 This project is lovingly dedicated to my sons:
 
-**Matías & Emiliano** 👨‍👦‍👦
+**Matí & Emi** 👨‍👦‍👦
 
 You are my greatest motivation to keep learning, building, and sharing knowledge.
 
