@@ -1,0 +1,5253 @@
+[
+  {
+    "data_element": {
+      "name_of_country": "Andorra",
+      "iban_prefix_country_code_iso": "AD",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "200359100100"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n4!n12!c",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "0001",
+      "branch_identifier_example": "2030",
+      "bban_example": "00012030200359100100"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "AD2!n4!n4!n12!c",
+      "iban_length": "24",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "AD1200012030200359100100",
+      "iban_print_format_example": "AD12 0001 2030 2003 5910 0100"
+    },
+    "contact_details": {
+      "organisation": "Associacio de Bancs Andorrans (ABA)",
+      "department": "",
+      "street_address": "C/ Ciutat de Consuegra, 16\nEdifici lIlla, esc. A, 2n pis",
+      "city_postcode": "AD500 Andorra la Vella\nPrincipat dAndorra",
+      "department_generic_email": "aba@aba.ad",
+      "department_tel": "376 80 71 10",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Mar-21"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "United Arab Emirates (The)",
+      "iban_prefix_country_code_iso": "AE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "1234567890123456"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n16!n",
+      "bban_length": "19",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "033",
+      "branch_identifier_example": "",
+      "bban_example": "0331234567890123456"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "AE2!n3!n16!n",
+      "iban_length": "23",
+      "effective_date": "Oct-11",
+      "iban_electronic_format_example": "AE070331234567890123456",
+      "iban_print_format_example": "AE07 0331 2345 6789 0123 456"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of the United Arab Emirates",
+      "department": "",
+      "street_address": "Bainuna Street, Al Bateen",
+      "city_postcode": "Abu Dhabi PO Box 854",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Al Fandi",
+          "first_name": "Rashid Mohamed",
+          "title": "Executive Director - Banking Operations",
+          "email": "rashed.alfandi@cbuae.gov.ae",
+          "tel": "+ 971 26915424 / 8486"
+        },
+        {
+          "priority": "secondary",
+          "name": "Al Dhaheri",
+          "first_name": "Khalifa Salem",
+          "title": "Executive Director IT",
+          "email": "khalifa.aldhaheri@cbuae.gov.ae",
+          "tel": "+ 971 26915202"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Feb-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Albania",
+      "iban_prefix_country_code_iso": "AL",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000000235698741"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "8!n16!c",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "4-8",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "212",
+      "branch_identifier_example": "11009",
+      "bban_example": "212110090000000235698741"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "AL2!n8!n16!c",
+      "iban_length": "28",
+      "effective_date": "Apr-09",
+      "iban_electronic_format_example": "AL47212110090000000235698741",
+      "iban_print_format_example": "AL47 2121 1009 0000 0002 3569 8741"
+    },
+    "contact_details": {
+      "organisation": "Bank of Albania",
+      "department": "Payment systems",
+      "street_address": "Kompleksi Halili\nRruga e Dibres",
+      "city_postcode": "1000 Tirana",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Miho",
+          "first_name": "Valer",
+          "title": "Deputy Director",
+          "email": "vmiho@bankofalbania.org",
+          "tel": "+ 355 42419301 / 2 / 3 (ext. 3061)"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jun-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Austria",
+      "iban_prefix_country_code_iso": "AT",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00234573201"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n11!n",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "19043",
+      "branch_identifier_example": "",
+      "bban_example": "1904300234573201"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "AT2!n5!n11!n",
+      "iban_length": "20",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "AT611904300234573201",
+      "iban_print_format_example": "AT61 1904 3002 3457 3201"
+    },
+    "contact_details": {
+      "organisation": "PSA Payement Services Austria GMBH",
+      "department": "Account Systems",
+      "street_address": "Rivergate 2, Handelskai 92",
+      "city_postcode": "1200 Wien",
+      "department_generic_email": "accountsystems@psa.at",
+      "department_tel": "+ 43 15053280 / 0",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Muus",
+          "first_name": "Hendrik",
+          "title": "Senior Consultant",
+          "email": "hendrik.muus@psa.at",
+          "tel": "+43 664 8865 3227"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Azerbaijan",
+      "iban_prefix_country_code_iso": "AZ",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00000000137010001944"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a20!c",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "NABZ",
+      "branch_identifier_example": "",
+      "bban_example": "NABZ00000000137010001944"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "AZ2!n4!a20!c",
+      "iban_length": "28",
+      "effective_date": "Jan-13",
+      "iban_electronic_format_example": "AZ21NABZ00000000137010001944",
+      "iban_print_format_example": "AZ21 NABZ 0000 0000 1370 1000 1944"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of the Republic of Azerbaijan",
+      "department": "Head Office",
+      "street_address": "32, R. Behbudov",
+      "city_postcode": "AZ 1014 Baku",
+      "department_generic_email": "payment_systems@cbar.az",
+      "department_tel": "+ 994 124931122",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Vahid",
+          "first_name": "Gurbanli",
+          "title": "Deputy of Director - Payment systems and settlements",
+          "email": "vahid_gurbanli@cbar.az",
+          "tel": "+ 994 124931122 (ext.480)"
+        },
+        {
+          "priority": "secondary",
+          "name": "Khayaladdin",
+          "first_name": "Tagiyev",
+          "title": "Senior specialist - Payment systems and settlements",
+          "email": "khayaladdin_tagiyev@cbar.az",
+          "tel": "+ 994 124931122 (ext.332)"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Bosnia and Herzegovina",
+      "iban_prefix_country_code_iso": "BA",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00012002-79"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n3!n8!n2!n",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "4-6",
+      "branch_identifier_pattern": "3!n",
+      "bank_identifier_example": "199",
+      "branch_identifier_example": "044",
+      "bban_example": "1990440001200279"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "BA2!n3!n3!n8!n2!n",
+      "iban_length": "20",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "BA391290079401028494",
+      "iban_print_format_example": "BA39 1290 0794 0102 8494"
+    },
+    "contact_details": {
+      "organisation": "Centralna banka Bosne Hercegovine",
+      "department": "Payment Systems Division",
+      "street_address": "Marsala Tita 25",
+      "city_postcode": "71000 Sarajevo, Bosnia and Herzegovina",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Kresic",
+          "first_name": "Srdjan",
+          "title": "",
+          "email": "srdjan.kresic@cbbh.ba",
+          "tel": "+ 387 33286485"
+        },
+        {
+          "priority": "secondary",
+          "name": "Sasa",
+          "first_name": "Lemez",
+          "title": "",
+          "email": "sasa.lemez@cbbh.ba",
+          "tel": "+ 387 33286465"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Belgium",
+      "iban_prefix_country_code_iso": "BE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "007547034"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n7!n2!n",
+      "bban_length": "12",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "539",
+      "branch_identifier_example": "",
+      "bban_example": "539007547034"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "BE2!n3!n7!n2!n",
+      "iban_length": "16",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "BE68539007547034",
+      "iban_print_format_example": "BE68 5390 0754 7034"
+    },
+    "contact_details": {
+      "organisation": "Febelfin",
+      "department": "Payments & Operations",
+      "street_address": "Aarlenstraat 82",
+      "city_postcode": "1040 Brussels",
+      "department_generic_email": "info@febelfin.be",
+      "department_tel": "+ 32 25076811",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Bulgaria",
+      "iban_prefix_country_code_iso": "BG",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "1020345678"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a4!n2!n8!c",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "BNBG",
+      "branch_identifier_example": "9661",
+      "bban_example": "BNBG96611020345678"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "BG2!n4!a4!n2!n8!c",
+      "iban_length": "22",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "BG80BNBG96611020345678",
+      "iban_print_format_example": "BG80 BNBG 9661 1020 3456 78"
+    },
+    "contact_details": {
+      "organisation": "Bulgarian National Bank",
+      "department": "Payment Systems and Minimum Reserves Directorate",
+      "street_address": "1, Knyaz Alexander ? Sq.",
+      "city_postcode": "1000 Sofia, Bulgaria",
+      "department_generic_email": "rtgs@bnbank.org",
+      "department_tel": "+ 359 29145761",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Bahrain",
+      "iban_prefix_country_code_iso": "BH",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00001299123456"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a14!c",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "BMAG",
+      "branch_identifier_example": "",
+      "bban_example": "BMAG00001299123456"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "BH2!n4!a14!c",
+      "iban_length": "22",
+      "effective_date": "Jan-12",
+      "iban_electronic_format_example": "BH67BMAG00001299123456",
+      "iban_print_format_example": "BH67 BMAG 0000 1299 1234 56"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Bahrain",
+      "department": "Banking Services Directorate",
+      "street_address": "King Faisal Highway, Block 317, Road 1702, Building 96",
+      "city_postcode": "Manama",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Al-Fadhel",
+          "first_name": "Mohammed A.",
+          "title": "Head- Payment and Settlement",
+          "email": "malfadhel@cbb.gov.bh",
+          "tel": "+ 973 17547758"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jan-12"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Burundi",
+      "iban_prefix_country_code_iso": "BI",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00003320451 81"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n5!n11!n2!n",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "6-10",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "10000",
+      "branch_identifier_example": "10001",
+      "bban_example": "10000100010000332045181"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "BI2!n5!n5!n11!n2!n",
+      "iban_length": "27",
+      "effective_date": "Oct-21",
+      "iban_electronic_format_example": "BI4210000100010000332045181",
+      "iban_print_format_example": "BI42 10000 10001 00003320451 81"
+    },
+    "contact_details": {
+      "organisation": "Banque de la Republique du Burundi",
+      "department": "",
+      "street_address": "1, Avenue du Gouvernement\nPO BOX 705",
+      "city_postcode": "Bujumbura",
+      "department_generic_email": "brb@brb.bi",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "Ndayiziga",
+          "first_name": "Bernard",
+          "title": "Advisor of the Board, in charge of inforamtion System and communication",
+          "email": "bndayiziga@brb.bi",
+          "tel": "00257 22041019"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-21"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Brazil",
+      "iban_prefix_country_code_iso": "BR",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0009795493C1"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "8!n5!n10!n1!a1!c",
+      "bban_length": "25",
+      "bank_identifier_position_within_the_bban": "1-8",
+      "bank_identifier_pattern": "8!n",
+      "branch_identifier_position_within_the_bban": "9-13",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "00360305",
+      "branch_identifier_example": "00001",
+      "bban_example": "00360305000010009795493C1"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "BR2!n8!n5!n10!n1!a1!c",
+      "iban_length": "29",
+      "effective_date": "Jul-13",
+      "iban_electronic_format_example": "BR1800360305000010009795493C1",
+      "iban_print_format_example": "BR18 0036 0305 0000 1000 9795 493C 1"
+    },
+    "contact_details": {
+      "organisation": "Banco Central do Brasil",
+      "department": "DEBAN - Departamento de Operacoes Bancarias e de Sistema de Pagamentos",
+      "street_address": "SBS Quadra 3 Bloco B",
+      "city_postcode": "71.070-900 Brasília",
+      "department_generic_email": "iban@bcb.gov.br",
+      "department_tel": "+ 55 (61)34142666 / + 55 (51)32157339",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Belarus",
+      "iban_prefix_country_code_iso": "BY",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "3600900000002Z00AB00"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!c4!n16!c",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!c ",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "NBRB",
+      "branch_identifier_example": "",
+      "bban_example": "NBRB3600900000002Z00AB00"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "BY2!n4!c4!n16!c",
+      "iban_length": "28",
+      "effective_date": "Jul-17",
+      "iban_electronic_format_example": "BY13NBRB3600900000002Z00AB00",
+      "iban_print_format_example": "BY13 NBRB 3600 9000 0000 2Z00 AB00"
+    },
+    "contact_details": {
+      "organisation": "National Bank of the Republic of Belarus",
+      "department": "Payment system and digital technologies directorate",
+      "street_address": "Nezavisimosty Avenue, 20",
+      "city_postcode": "220008 Minsk",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Pelih",
+          "first_name": "Nataly",
+          "title": "Deputy head of directorate",
+          "email": "N.Pelih@nbrb.by",
+          "tel": "+375 17 215 44 93"
+        },
+        {
+          "priority": "secondary",
+          "name": "Zuiko",
+          "first_name": "Viachaslau",
+          "title": "Deputy head of payment systems organization and development department",
+          "email": "v.zuiko@nbrb.by",
+          "tel": "+375 17 215 44 46"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Feb-24"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Switzerland",
+      "iban_prefix_country_code_iso": "CH",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "01162-3852.957"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n12!c",
+      "bban_length": "17",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "00762",
+      "branch_identifier_example": "",
+      "bban_example": "00762011623852957"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "CH2!n5!n12!c",
+      "iban_length": "21",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "CH9300762011623852957",
+      "iban_print_format_example": "CH93 0076 2011 6238 5295 7"
+    },
+    "contact_details": {
+      "organisation": "SIX Interbank Clearing Ltd",
+      "department": "Zentrale Koordinationsstelle fuer IBAN/IPI - Technical Support",
+      "street_address": "Hardturmstrasse 201",
+      "city_postcode": "CH-8021 ZURICH",
+      "department_generic_email": "iban@six-group.com",
+      "department_tel": "+ 41 583994420",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Costa Rica",
+      "iban_prefix_country_code_iso": "CR",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "02001026284066"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n14!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "0152",
+      "branch_identifier_example": "",
+      "bban_example": "015202001026284066"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "CR2!n4!n14!n",
+      "iban_length": "22",
+      "effective_date": "Jun-11",
+      "iban_electronic_format_example": "CR05015202001026284066",
+      "iban_print_format_example": "CR05 0152 0200 1026 2840 66"
+    },
+    "contact_details": {
+      "organisation": "Banco Central de Costa Rica",
+      "department": "Sistema de Pagos",
+      "street_address": "Avenida Central y 1a. Calles 2 y 4",
+      "city_postcode": "10058-1000 San Jose",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Quintero",
+          "first_name": "Nidia",
+          "title": "Payment System Officer",
+          "email": "quinteromn@bccr.fi.cr",
+          "tel": "+ 506 22433648"
+        },
+        {
+          "priority": "secondary",
+          "name": "Carvajal",
+          "first_name": "Francisco",
+          "title": "Director",
+          "email": "carvajalcf@bccr.fi.cr",
+          "tel": "+ 506 22433655"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jan-19"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Cyprus",
+      "iban_prefix_country_code_iso": "CY",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000001200527600"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n5!n16!c",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "4-8",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "002",
+      "branch_identifier_example": "00128",
+      "bban_example": "002001280000001200527600"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "CY2!n3!n5!n16!c",
+      "iban_length": "28",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "CY17002001280000001200527600",
+      "iban_print_format_example": "CY17 0020 0128 0000 0012 0052 7600"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Cyprus",
+      "department": "Payment systems and Accounting Services",
+      "street_address": "80 Kennedy Avenue",
+      "city_postcode": "P.O. Box 25529\nCY-1395 Nicosia",
+      "department_generic_email": "PaymentSystems@centralbank.gov.cy",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Piki",
+          "first_name": "Christia",
+          "title": "",
+          "email": "",
+          "tel": "+ 357 22714405"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-09"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Czechia",
+      "iban_prefix_country_code_iso": "CZ",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "19-2000145399/0800"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n16!n",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "0800",
+      "branch_identifier_example": "",
+      "bban_example": "08000000192000145399"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "CZ2!n4!n6!n10!n",
+      "iban_length": "24",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "CZ6508000000192000145399",
+      "iban_print_format_example": "CZ65 0800 0000 1920 0014 5399"
+    },
+    "contact_details": {
+      "organisation": "Czech National Bank",
+      "department": "Cash and Payments Department",
+      "street_address": "Na Prikope 28",
+      "city_postcode": "Praha 1",
+      "department_generic_email": "iban.info@cnb.cz",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Fencl",
+          "first_name": "Ivan",
+          "title": "",
+          "email": "",
+          "tel": "+ 420 224413580"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jun-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Germany",
+      "iban_prefix_country_code_iso": "DE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0532013000"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "8!n10!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-8",
+      "bank_identifier_pattern": "8!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "37040044",
+      "branch_identifier_example": "",
+      "bban_example": "370400440532013000"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "DE2!n8!n10!n",
+      "iban_length": "22",
+      "effective_date": "Jul-07",
+      "iban_electronic_format_example": "DE89370400440532013000",
+      "iban_print_format_example": "DE89 3704 0044 0532 0130 00"
+    },
+    "contact_details": {
+      "organisation": "Bundesverband deutscher Banken",
+      "department": "",
+      "street_address": "Burgstrasse 28",
+      "city_postcode": "10178 BERLIN",
+      "department_generic_email": "iban@bdb.de",
+      "department_tel": "+ 49 3016632301",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jan-11"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Djibouti",
+      "iban_prefix_country_code_iso": "DJ",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0154000100186"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n5!n11!n2!n",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "6-10",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "00010",
+      "branch_identifier_example": "00000",
+      "bban_example": "00010000000154000100186"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "DJ2!n5!n5!n11!n2!n",
+      "iban_length": "27",
+      "effective_date": "Apr-22",
+      "iban_electronic_format_example": "DJ2100010000000154000100186",
+      "iban_print_format_example": "DJ21 0001 0000 0001 5400 0100 186"
+    },
+    "contact_details": {
+      "organisation": "Banque Centrale de Djibouti",
+      "department": "",
+      "street_address": "Avenue Cheick Osman\nP.O Box 705",
+      "city_postcode": "Djibouti",
+      "department_generic_email": "bndj@intnet.dj",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "Moussa Yacin",
+          "first_name": "Hassan",
+          "title": "Directeur Executif de la Banque Centrale de Djibouti",
+          "email": "hassan.moussa@banque-centrale.dj",
+          "tel": "+25321312006"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "May-22"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Denmark",
+      "iban_prefix_country_code_iso": "DK",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0440116243"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n9!n1!n",
+      "bban_length": "14",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "0040",
+      "branch_identifier_example": "",
+      "bban_example": "00400440116243"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "DK2!n4!n9!n1!n",
+      "iban_length": "18",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "DK5000400440116243",
+      "iban_print_format_example": "DK50 0040 0440 1162 43"
+    },
+    "contact_details": {
+      "organisation": "Finance Denmark",
+      "department": "",
+      "street_address": "7 Amaliegade",
+      "city_postcode": "DK 1256 Copenhagen K",
+      "department_generic_email": "IBAN@FIDA.dk",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Nov-18"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Dominican Republic",
+      "iban_prefix_country_code_iso": "DO",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00000001212453611324"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!c20!n",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!c",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "BAGR",
+      "branch_identifier_example": "",
+      "bban_example": "BAGR00000001212453611324"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "DO2!n4!c20!n",
+      "iban_length": "28",
+      "effective_date": "Dec-10",
+      "iban_electronic_format_example": "DO28BAGR00000001212453611324",
+      "iban_print_format_example": "DO28 BAGR 0000 0001 2124 5361 1324"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of the Dominican Republic",
+      "department": "Payment Systems ",
+      "street_address": "Av. Pedro Henriquez Urena esq. Leopoldo Navarro",
+      "city_postcode": "Santo Domingo",
+      "department_generic_email": "sistema.pagos@bancentral.gov.do ",
+      "department_tel": "+ 1 8092219111 (ext. 3409)",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Estonia",
+      "iban_prefix_country_code_iso": "EE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00221020145685"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "2!n14!n",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "22",
+      "branch_identifier_example": "",
+      "bban_example": "2200221020145685"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "EE2!n2!n14!n",
+      "iban_length": "20",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "EE382200221020145685",
+      "iban_print_format_example": "EE38 2200 2210 2014 5685"
+    },
+    "contact_details": {
+      "organisation": "Estonian Banking Association",
+      "department": "",
+      "street_address": "Maakri 30",
+      "city_postcode": "10145 Tallinn",
+      "department_generic_email": "pangaliit@pangaliit.ee",
+      "department_tel": "+ 372 6116569",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Riisalu",
+          "first_name": "Enn",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Dec-24"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Egypt",
+      "iban_prefix_country_code_iso": "EG",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00000000263180002"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n4!n17!n",
+      "bban_length": "25",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "0019",
+      "branch_identifier_example": "0005",
+      "bban_example": "0019000500000000263180002"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "EG2!n4!n4!n17!n",
+      "iban_length": "29",
+      "effective_date": "Jan-21",
+      "iban_electronic_format_example": "EG380019000500000000263180002",
+      "iban_print_format_example": "EG38 0019 0005 0000 0000 2631 8000 2"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Egypt",
+      "department": "Operations Sector",
+      "street_address": "54 El Gomherya street",
+      "city_postcode": "Cairo",
+      "department_generic_email": "Operations.development@cbe.org.eg",
+      "department_tel": "+ 20 16777 (ext. 3109)",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Adel",
+          "first_name": "Shereef",
+          "title": "Head of Project Management  Operations Sector",
+          "email": "Shereef.Adel@Cbe.org.eg",
+          "tel": " +20 1224011007"
+        },
+        {
+          "priority": "secondary",
+          "name": " Abdelrazek",
+          "first_name": " Dalia",
+          "title": " Head of Organization and Re-engineering",
+          "email": " Dalia.Abdelrazek@cbe.org.eg",
+          "tel": " 0201001682269"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jan-20"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Spain",
+      "iban_prefix_country_code_iso": "ES",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "45 0200051332"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n4!n1!n1!n10!n",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "2100",
+      "branch_identifier_example": "0418",
+      "bban_example": "21000418450200051332"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "ES2!n4!n4!n1!n1!n10!n",
+      "iban_length": "24",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "ES9121000418450200051332",
+      "iban_print_format_example": "ES91 2100 0418 4502 0005 1332"
+    },
+    "contact_details": {
+      "organisation": "Asociacion Espanola de Banca Privada (AEB)",
+      "department": "",
+      "street_address": "C/ Velazquez, 64  66",
+      "city_postcode": "28001 Madrid",
+      "department_generic_email": "asesoria.pagos@aebanca.es",
+      "department_tel": "+ 34 917891311",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Claveria",
+          "first_name": "Pilar",
+          "title": "",
+          "email": "pclaveria@aebanca.es",
+          "tel": "+ 34 917891311"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Finland",
+      "iban_prefix_country_code_iso": "FI",
+      "country_code_includes_other_countries_territories": "AX",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "AX",
+      "domestic_account_number_example": "123 45600000785"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n11!n",
+      "bban_length": "14",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "123",
+      "branch_identifier_example": "",
+      "bban_example": "123 45600000785"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "FI2!n3!n11!n",
+      "iban_length": "18",
+      "effective_date": "Dec-11",
+      "iban_electronic_format_example": "FI2112345600000785",
+      "iban_print_format_example": "FI21 1234 5600 0007 85"
+    },
+    "contact_details": {
+      "organisation": "Federation of Finnish Financial Services",
+      "department": "",
+      "street_address": "PO Box 1009",
+      "city_postcode": "FIN-00101 Helsinki",
+      "department_generic_email": "paymentsupport@finanssiala.fi",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Falkland Islands (Malvinas)",
+      "iban_prefix_country_code_iso": "FK",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "123456789012"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "2!a12!n",
+      "bban_length": "14",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!a",
+      "branch_identifier_position_within_the_bban": "N/A",
+      "branch_identifier_pattern": "N/A",
+      "bank_identifier_example": "SC",
+      "branch_identifier_example": "N/A",
+      "bban_example": "SC123456789012"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "FK2!n2!a12!n",
+      "iban_length": "18",
+      "effective_date": "Jul-23",
+      "iban_electronic_format_example": "FK88SC123456789012",
+      "iban_print_format_example": "FK88 SC12 3456 7890 12"
+    },
+    "contact_details": {
+      "organisation": "Falkland Islands Government",
+      "department": "The Treasury",
+      "street_address": "Thatcher Drive",
+      "city_postcode": "FIQQ 1ZZ Stanley",
+      "department_generic_email": "treasury@sec.gov.fk ",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jul-23"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Faroe Islands",
+      "iban_prefix_country_code_iso": "FO",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0001631634"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n9!n1!n",
+      "bban_length": "14",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "6460",
+      "branch_identifier_example": "",
+      "bban_example": "64600001631634"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "FO2!n4!n9!n1!n",
+      "iban_length": "18",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "FO6264600001631634",
+      "iban_print_format_example": "FO62 6460 0001 6316 34"
+    },
+    "contact_details": {
+      "organisation": "Finance Denmark",
+      "department": "",
+      "street_address": "7 Amaliegade",
+      "city_postcode": "DK 1256 Copenhagen K",
+      "department_generic_email": "IBAN@FIDA.dk",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Feb-17"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "France",
+      "iban_prefix_country_code_iso": "FR",
+      "country_code_includes_other_countries_territories": "GF, GP, MQ, RE, PF, TF, YT, NC, BL, MF (French part), PM, WF",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "GF, GP, MQ, YT, RE, PM, BL, MF",
+      "domestic_account_number_example": "01005 0500013M026 06"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n5!n11!c2!n",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "20041",
+      "branch_identifier_example": "",
+      "bban_example": "20041010050500013M02606"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "FR2!n5!n5!n11!c2!n",
+      "iban_length": "27",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "FR1420041010050500013M02606",
+      "iban_print_format_example": "FR14 2004 1010 0505 0001 3M02 606"
+    },
+    "contact_details": {
+      "organisation": "CFONB",
+      "department": "",
+      "street_address": "18 rue la Fayette",
+      "city_postcode": "75009 Paris",
+      "department_generic_email": "cfonb@cfonb.fr",
+      "department_tel": "+ 33 148005042",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "United Kingdom",
+      "iban_prefix_country_code_iso": "GB",
+      "country_code_includes_other_countries_territories": "IM, JE, GG",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "31926819"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a6!n8!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "5-10",
+      "branch_identifier_pattern": "6!n",
+      "bank_identifier_example": "NWBK",
+      "branch_identifier_example": "601613",
+      "bban_example": "NWBK60161331926819"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "GB2!n4!a6!n8!n",
+      "iban_length": "22",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "GB29NWBK60161331926819",
+      "iban_print_format_example": "GB29 NWBK 6016 1331 9268 19"
+    },
+    "contact_details": {
+      "organisation": "Payments UK Management Ltd",
+      "department": "International Standards and Services",
+      "street_address": "14 Finsbury Square",
+      "city_postcode": "London EC2A 1LQ",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Whittle",
+          "first_name": "James",
+          "title": "Director International Standards and Services ",
+          "email": "James.Whittle@paymentsuk.org.uk",
+          "tel": "+44 (0) 20 3217 8209"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "May-17"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Georgia",
+      "iban_prefix_country_code_iso": "GE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000000101904917"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "2!a16!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "NB",
+      "branch_identifier_example": "",
+      "bban_example": "NB0000000101904917"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "GE2!n2!a16!n",
+      "iban_length": "22",
+      "effective_date": "May-10",
+      "iban_electronic_format_example": "GE29NB0000000101904917",
+      "iban_print_format_example": "GE29 NB00 0000 0101 9049 17"
+    },
+    "contact_details": {
+      "organisation": "National Bank of Georgia",
+      "department": "Payment Systems",
+      "street_address": "1, Zviad Gamsakhurdia Embankment",
+      "city_postcode": "0114 Tbilisi",
+      "department_generic_email": "RTGS@nbg.gov.ge",
+      "department_tel": "+ 995 322406555",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Natalia",
+          "first_name": "Tchkoidze",
+          "title": "Mrs.",
+          "email": "Natalia.Tchkoidze@nbg.gov.ge",
+          "tel": "+995 322446444"
+        },
+        {
+          "priority": "secondary",
+          "name": "Rusudan",
+          "first_name": "Kakulia",
+          "title": "Mrs.",
+          "email": "Rusudan.Kakulia@nbg.gov.ge",
+          "tel": "+995 322446365"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Apr-23"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Gibraltar",
+      "iban_prefix_country_code_iso": "GI",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000 00007099 453"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a15!c",
+      "bban_length": "19",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "NWBK",
+      "branch_identifier_example": "",
+      "bban_example": "NWBK000000007099453"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "GI2!n4!a15!c",
+      "iban_length": "23",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "GI75NWBK000000007099453",
+      "iban_print_format_example": "GI75 NWBK 0000 0000 7099 453"
+    },
+    "contact_details": {
+      "organisation": "Financial Services Commission",
+      "department": "",
+      "street_address": "PO Box 940",
+      "city_postcode": "Suite 3, Ground Floor, Atlantic Suites",
+      "department_generic_email": "info@fsc.gi",
+      "department_tel": "+350 20040283",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Greenland",
+      "iban_prefix_country_code_iso": "GL",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0001000206"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n9!n1!n",
+      "bban_length": "14",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "6471",
+      "branch_identifier_example": "",
+      "bban_example": "64710001000206"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "GL2!n4!n9!n1!n",
+      "iban_length": "18",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "GL8964710001000206",
+      "iban_print_format_example": "GL89 6471 0001 0002 06"
+    },
+    "contact_details": {
+      "organisation": "Finance Denmark",
+      "department": "",
+      "street_address": "7 Amaliegade",
+      "city_postcode": "DK 1256 Copenhagen K",
+      "department_generic_email": "IBAN@FIDA.dk",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Feb-17"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Greece",
+      "iban_prefix_country_code_iso": "GR",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000000012300695"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n4!n16!c",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "4-7",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "011",
+      "branch_identifier_example": "0125",
+      "bban_example": "01101250000000012300695"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "GR2!n3!n4!n16!c",
+      "iban_length": "27",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "GR1601101250000000012300695",
+      "iban_print_format_example": "GR16 0110 1250 0000 0001 2300 695"
+    },
+    "contact_details": {
+      "organisation": "Hellenic Bank Association",
+      "department": "Payment Systems",
+      "street_address": "Amerikis 21A",
+      "city_postcode": "10672 Athens",
+      "department_generic_email": "hba@hba.gr",
+      "department_tel": "+ 30 2103386500",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Guatemala",
+      "iban_prefix_country_code_iso": "GT",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "01020000001210029690"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!c20!c",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!c",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "TRAJ",
+      "branch_identifier_example": "",
+      "bban_example": "TRAJ01020000001210029690"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "GT2!n4!c20!c",
+      "iban_length": "28",
+      "effective_date": "Sep-16",
+      "iban_electronic_format_example": "GT82TRAJ01020000001210029690",
+      "iban_print_format_example": "GT82 TRAJ 0102 0000 0012 1002 9690"
+    },
+    "contact_details": {
+      "organisation": "Banco de Guatemala",
+      "department": "Accounting and Payment System",
+      "street_address": "7 Avenue 22-01 Zone 1",
+      "city_postcode": "01001 Guatemala",
+      "department_generic_email": "CONTABILIDAD@BANGUAT.GOB.GT",
+      "department_tel": "(502) 2429-6000 EXT. 4300\n(502) 2253-5352  ",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Honduras",
+      "iban_prefix_country_code_iso": "HN",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00000000000250005469"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a20!n",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "CABF",
+      "branch_identifier_example": "",
+      "bban_example": "CABF00000000000250005469"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "HN2!n4!a20!n",
+      "iban_length": "28",
+      "effective_date": "Oct-24",
+      "iban_electronic_format_example": "HN88CABF00000000000250005469",
+      "iban_print_format_example": "HN88 CABF 0000 0000 0002 5000 5469"
+    },
+    "contact_details": {
+      "organisation": "Banco Central de Honduras",
+      "department": "",
+      "street_address": "Centro Civico Gubernamental,\nBoulevard Fuerzas Armadas",
+      "city_postcode": "Tegucigalpa, MDC 3165",
+      "department_generic_email": "carlos.avila@bch.hn",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Dec-24"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Croatia",
+      "iban_prefix_country_code_iso": "HR",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "1863000160"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "7!n10!n",
+      "bban_length": "17",
+      "bank_identifier_position_within_the_bban": "1-7",
+      "bank_identifier_pattern": "7!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "1001005",
+      "branch_identifier_example": "",
+      "bban_example": "10010051863000160"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "HR2!n7!n10!n",
+      "iban_length": "21",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "HR1210010051863000160",
+      "iban_print_format_example": "HR12 1001 0051 8630 0016 0"
+    },
+    "contact_details": {
+      "organisation": "Croatian National Bank",
+      "department": "Payment Operations Area",
+      "street_address": "Trg hrvatskih velikana 3 ",
+      "city_postcode": "Zagreb / 10002",
+      "department_generic_email": "zpp@hnb.hr",
+      "department_tel": "+ 385 14564992",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Hungary",
+      "iban_prefix_country_code_iso": "HU",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "6-11111018-00000000"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n4!n1!n15!n1!n",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "4-7",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "117",
+      "branch_identifier_example": "7301",
+      "bban_example": "117730161111101800000000"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "HU2!n3!n4!n1!n15!n1!n",
+      "iban_length": "28",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "HU42117730161111101800000000",
+      "iban_print_format_example": "HU42 1177 3016 1111 1018 0000 0000"
+    },
+    "contact_details": {
+      "organisation": "Hungarian Banking Association",
+      "department": "",
+      "street_address": "Jozsef nador ter 5-6.",
+      "city_postcode": "H-1051 Budapest",
+      "department_generic_email": "hba@hba.org.hu",
+      "department_tel": "+ 36 13276030",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Ireland",
+      "iban_prefix_country_code_iso": "IE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "12345678"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a6!n8!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "5-10",
+      "branch_identifier_pattern": "6!n",
+      "bank_identifier_example": "AIBK",
+      "branch_identifier_example": "931152",
+      "bban_example": "AIBK93115212345678"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "IE2!n4!a6!n8!n",
+      "iban_length": "22",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "IE29AIBK93115212345678",
+      "iban_print_format_example": "IE29 AIBK 9311 5212 3456 78"
+    },
+    "contact_details": {
+      "organisation": "Banking & Payments Federation Ireland",
+      "department": "",
+      "street_address": "Floor 3 One Molesworth Street",
+      "city_postcode": "Dublin 2 D02 RF29",
+      "department_generic_email": "info@bpfi.ie",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Israel",
+      "iban_prefix_country_code_iso": "IL",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000099999999"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n3!n13!n",
+      "bban_length": "19",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "4-6",
+      "branch_identifier_pattern": "3!n",
+      "bank_identifier_example": "010",
+      "branch_identifier_example": "800",
+      "bban_example": "0108000000099999999"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "IL2!n3!n3!n13!n",
+      "iban_length": "23",
+      "effective_date": "Jul-07",
+      "iban_electronic_format_example": "IL620108000000099999999",
+      "iban_print_format_example": "IL62 0108 0000 0009 9999 999"
+    },
+    "contact_details": {
+      "organisation": "Bank of Israel",
+      "department": "Payment and Settlement Systems",
+      "street_address": "Kaplan Street, Kyriat Ben Gurion",
+      "city_postcode": "91007 Jerusalem",
+      "department_generic_email": "zahav@boi.org.il",
+      "department_tel": "+ 972 26552020",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Rashti",
+          "first_name": "Yael",
+          "title": "Head of the Clearinghouse Operations Unit ",
+          "email": "yael.rashti@boi.org.il",
+          "tel": "+ 972 26552914"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Iraq",
+      "iban_prefix_country_code_iso": "IQ",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "123456789012"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a3!n12!n",
+      "bban_length": "19",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "5-7",
+      "branch_identifier_pattern": "3!n",
+      "bank_identifier_example": "NBIQ",
+      "branch_identifier_example": "850",
+      "bban_example": "NBIQ850123456789012"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "IQ2!n4!a3!n12!n",
+      "iban_length": "23",
+      "effective_date": "Jan-17",
+      "iban_electronic_format_example": "IQ98NBIQ850123456789012",
+      "iban_print_format_example": "IQ98 NBIQ 8501 2345 6789 012"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Iraq",
+      "department": "SWIFT Department",
+      "street_address": "Rasheed Street",
+      "city_postcode": "Baghdad",
+      "department_generic_email": "cbi@cbi.iq",
+      "department_tel": "+ 964 47903737479",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Khalaf",
+          "first_name": "Amal",
+          "title": "Manager",
+          "email": "amal.khalaf@cbiraq.org",
+          "tel": "+ 964 7903737479"
+        },
+        {
+          "priority": "secondary",
+          "name": "Aljoofi",
+          "first_name": "Jenan",
+          "title": "Asst..Manager",
+          "email": "jenan.aljoofi@cbiraq.org",
+          "tel": "+ 964 7901979217"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Nov-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Iceland",
+      "iban_prefix_country_code_iso": "IS",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "26-007654-551073-0339"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n2!n6!n10!n",
+      "bban_length": "22",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!n",
+      "branch_identifier_position_within_the_bban": "3-4",
+      "branch_identifier_pattern": "2!n",
+      "bank_identifier_example": "01",
+      "branch_identifier_example": "59",
+      "bban_example": "0159260076545510730339"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "IS2!n4!n2!n6!n10!n",
+      "iban_length": "26",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "IS140159260076545510730339",
+      "iban_print_format_example": "IS14 0159 2600 7654 5510 7303 39"
+    },
+    "contact_details": {
+      "organisation": "Icelandic Banks Data Centre",
+      "department": "",
+      "street_address": "Katrinartun 2",
+      "city_postcode": "105 Reykjavik",
+      "department_generic_email": "hjalp@rb.is",
+      "department_tel": "+ 354 5698877",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Bjornsson",
+          "first_name": "Thor",
+          "title": "",
+          "email": "thor@rb.is",
+          "tel": "+ 354 5698877"
+        },
+        {
+          "priority": "secondary",
+          "name": "Snorrason",
+          "first_name": "Fridrik Thor",
+          "title": "CEO",
+          "email": "Fridrik.Thor.Snorrason@rb.is",
+          "tel": "+ 354 5698877"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Italy",
+      "iban_prefix_country_code_iso": "IT",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "000000123456"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "1!a5!n5!n12!c",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "2-6",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "7-11",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "05428",
+      "branch_identifier_example": "11101",
+      "bban_example": "X0542811101000000123456"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "IT2!n1!a5!n5!n12!c",
+      "iban_length": "27",
+      "effective_date": "Jul-07",
+      "iban_electronic_format_example": "IT60X0542811101000000123456",
+      "iban_print_format_example": "IT60 X054 2811 1010 0000 0123 456"
+    },
+    "contact_details": {
+      "organisation": "Associazione Bancaria Italiana",
+      "department": "Head of Payment Systems and Services",
+      "street_address": "Via delle Botteghe Oscure, 46",
+      "city_postcode": "00186 Rome  Italy",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Camporeale",
+          "first_name": "Rita",
+          "title": "",
+          "email": "r.camporeale@abi.it",
+          "tel": "+ 39 066767332"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Mar-13"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Jordan",
+      "iban_prefix_country_code_iso": "JO",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "000000000131000302"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a4!n18!c",
+      "bban_length": "26",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "CBJO",
+      "branch_identifier_example": "0010",
+      "bban_example": "CBJO0010000000000131000302"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "JO2!n4!a4!n18!c",
+      "iban_length": "30",
+      "effective_date": "Feb-14",
+      "iban_electronic_format_example": "JO94CBJO0010000000000131000302",
+      "iban_print_format_example": "JO94 CBJO 0010 0000 0000 0131 0003 02"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Jordan",
+      "department": "Financial",
+      "street_address": "King Hussein Street",
+      "city_postcode": "11118 Amman  Capital",
+      "department_generic_email": "finance@cbj.gov.jo",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Sayeh",
+          "first_name": "Rami",
+          "title": "Head of Electronic Paying Communication Div",
+          "email": "rami.sayeh@cbj.gov.jo",
+          "tel": "+96264630301"
+        },
+        {
+          "priority": "secondary",
+          "name": "Alrashdan",
+          "first_name": "Nibal",
+          "title": "Senior Officer",
+          "email": "nibal.alrashdan@cbj.gov.jo",
+          "tel": "+96264630301"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Kuwait",
+      "iban_prefix_country_code_iso": "KW",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000000000001234560101"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a22!c",
+      "bban_length": "26",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "CBKU",
+      "branch_identifier_example": "",
+      "bban_example": "CBKU0000000000001234560101"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "KW2!n4!a22!c",
+      "iban_length": "30",
+      "effective_date": "Jan-11",
+      "iban_electronic_format_example": "KW81CBKU0000000000001234560101",
+      "iban_print_format_example": "KW81 CBKU 0000 0000 0000 1234 5601 01"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Kuwait",
+      "department": "Information Technology and Banking Operations Sector",
+      "street_address": "P.O. Box 526 Safat",
+      "city_postcode": "13006 Safat",
+      "department_generic_email": "bito@cbk.gov.kw",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Al-Ghaith",
+          "first_name": "Anwar",
+          "title": "Executive Director",
+          "email": "aalghaith@cbk.gov.kw",
+          "tel": "+ 965 22451568"
+        },
+        {
+          "priority": "secondary",
+          "name": "Alkheshnam",
+          "first_name": "Esam",
+          "title": "ITSPD Manager",
+          "email": "ealkheshnam@cbk.gov.kw",
+          "tel": "+ 965 22972938"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Kazakhstan",
+      "iban_prefix_country_code_iso": "KZ",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "125K ZT50 0410 0100"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n13!c",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "125",
+      "branch_identifier_example": "",
+      "bban_example": "125KZT5004100100"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "KZ2!n3!n13!c",
+      "iban_length": "20",
+      "effective_date": "Sep-10",
+      "iban_electronic_format_example": "KZ86125KZT5004100100",
+      "iban_print_format_example": "KZ86 125K ZT50 0410 0100"
+    },
+    "contact_details": {
+      "organisation": "National Bank of the Republic of Kazakhstan",
+      "department": "Payment Systems",
+      "street_address": "21, Koktem-3",
+      "city_postcode": "050040 Almaty",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Imangazina",
+          "first_name": "Alina",
+          "title": "Expert",
+          "email": "imangazina@nationalbank.kz",
+          "tel": "+ 7 7272704720"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Lebanon",
+      "iban_prefix_country_code_iso": "LB",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000 0001 0019 0122 9114"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n20!c",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "0999",
+      "branch_identifier_example": "",
+      "bban_example": "0999 0000 0001 0019 0122 9114"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "LB2!n4!n20!c",
+      "iban_length": "28",
+      "effective_date": "Jan-10",
+      "iban_electronic_format_example": "LB62099900000001001901229114",
+      "iban_print_format_example": "LB62 0999 0000 0001 0019 0122 9114"
+    },
+    "contact_details": {
+      "organisation": "BANQUE DU LIBAN",
+      "department": "Payment Systems",
+      "street_address": "",
+      "city_postcode": "11-5544 BEIRUT",
+      "department_generic_email": "IBAN@bdl.gov.lb",
+      "department_tel": "+961-1-343317",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Nahfawi",
+          "first_name": "Ghina",
+          "title": "Head of RTGS & SWIFT Unit",
+          "email": "gnahfawi@bdl.gov.lb",
+          "tel": "+961-1-750000 Ext: 5606-5659"
+        },
+        {
+          "priority": "secondary",
+          "name": "Zouheiry",
+          "first_name": "Bassel",
+          "title": "Head of Operations",
+          "email": "belzouheiry@bdl.gov.lb",
+          "tel": "+961-1-750000 Ext: 5609-5656"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Saint Lucia",
+      "iban_prefix_country_code_iso": "LC",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0001 0001 0012 0012 0002 3015"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a24!c",
+      "bban_length": "28",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "HEMM",
+      "branch_identifier_example": "",
+      "bban_example": "HEMM000100010012001200023015"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "LC2!n4!a24!c",
+      "iban_length": "32",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "LC55HEMM000100010012001200023015",
+      "iban_print_format_example": "LC55 HEMM 0001 0001 0012 0012 0002 3015"
+    },
+    "contact_details": {
+      "organisation": "Saint Lucia Bureau of Standards",
+      "department": "",
+      "street_address": "Bisee Industrial Estate",
+      "city_postcode": "Castries, PO Box CP 5412",
+      "department_generic_email": "slbs@candw.lc; info@slbs.org",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Tzarmallah",
+          "first_name": "Haynes",
+          "title": "Head of Department  Standards Development",
+          "email": "t.haynes@slbs.org",
+          "tel": "+ 1 7584530049"
+        },
+        {
+          "priority": "secondary",
+          "name": "Mkabi",
+          "first_name": "Walcott",
+          "title": "Director  Executive Office",
+          "email": "director@slbs.org",
+          "tel": "+ 1 7584560546"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Liechtenstein",
+      "iban_prefix_country_code_iso": "LI",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0002324013AA"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n12!c",
+      "bban_length": "17",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "08810",
+      "branch_identifier_example": "",
+      "bban_example": "088100002324013AA"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "LI2!n5!n12!c",
+      "iban_length": "21",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "LI21088100002324013AA",
+      "iban_print_format_example": "LI21 0881 0000 2324 013A A"
+    },
+    "contact_details": {
+      "organisation": "Liechtenstein Bankers Association",
+      "department": "",
+      "street_address": "P.O. Box 254",
+      "city_postcode": "FL-9490 Vaduz",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Zimmermann",
+          "first_name": "Gert",
+          "title": "Rechtskonsulent",
+          "email": "gert.zimmermann@bankenverband.li",
+          "tel": "+ 423 2301396"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Lithuania",
+      "iban_prefix_country_code_iso": "LT",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "11101001000"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n11!n",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "10000",
+      "branch_identifier_example": "",
+      "bban_example": "1000011101001000"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "LT2!n5!n11!n",
+      "iban_length": "20",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "LT121000011101001000",
+      "iban_print_format_example": "LT12 1000 0111 0100 1000"
+    },
+    "contact_details": {
+      "organisation": "Bank of Lithuania",
+      "department": "Operations and Payments Department",
+      "street_address": "Gedimino pr. 6",
+      "city_postcode": "Vilnius, LT-01103",
+      "department_generic_email": "tarpbank@lb.lt",
+      "department_tel": "+ 370 52680604",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Luxembourg",
+      "iban_prefix_country_code_iso": "LU",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "9400644750000"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n13!c",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "001",
+      "branch_identifier_example": "",
+      "bban_example": "0019400644750000"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "LU2!n3!n13!c",
+      "iban_length": "20",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "LU280019400644750000",
+      "iban_print_format_example": "LU28 0019 4006 4475 0000"
+    },
+    "contact_details": {
+      "organisation": "ABBL - Association des Banques et Banquiers Luxembourg",
+      "department": "",
+      "street_address": "Boite Postale 13",
+      "city_postcode": "L-2010 Luxembourg",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Borsa",
+          "first_name": "Jean-Pierre",
+          "title": "",
+          "email": "borsa@abbl.lu",
+          "tel": "+ 352 4636601"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Latvia",
+      "iban_prefix_country_code_iso": "LV",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "BANK 0000 4351 9500 1"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a13!c",
+      "bban_length": "17",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "BANK",
+      "branch_identifier_example": "",
+      "bban_example": "BANK0000435195001"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "LV2!n4!a13!c",
+      "iban_length": "21",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "LV80BANK0000435195001",
+      "iban_print_format_example": "LV80 BANK 0000 4351 9500 1"
+    },
+    "contact_details": {
+      "organisation": "Bank of Latvia",
+      "department": "Payment Systems",
+      "street_address": "K. Valdemara 2a",
+      "city_postcode": "Riga, LV-1050",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Zalmane",
+          "first_name": "Anda",
+          "title": "",
+          "email": "Anda.Zalmane@bank.lv",
+          "tel": "+ 371 67022510"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Libya",
+      "iban_prefix_country_code_iso": "LY",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "000020100120361"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n3!n15!n",
+      "bban_length": "21",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "4-6",
+      "branch_identifier_pattern": "3!n",
+      "bank_identifier_example": "002",
+      "branch_identifier_example": "048",
+      "bban_example": "002048000020100120361"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "LY2!n3!n3!n15!n",
+      "iban_length": "25",
+      "effective_date": "Jan-21",
+      "iban_electronic_format_example": "LY83002048000020100120361",
+      "iban_print_format_example": "LY83 002 048 000020100120361"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Libya",
+      "department": "Payment and Settlement Department",
+      "street_address": "Alfatah Road",
+      "city_postcode": "1103 Tripoli",
+      "department_generic_email": "info@cbl.gov.ly",
+      "department_tel": "+218 912137654",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-20"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Monaco",
+      "iban_prefix_country_code_iso": "MC",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "01234567890 30"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n5!n11!c2!n",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n ",
+      "branch_identifier_position_within_the_bban": "6-10",
+      "branch_identifier_pattern": "5!n ",
+      "bank_identifier_example": "11222",
+      "branch_identifier_example": "00001",
+      "bban_example": "11222 00001 01234567890 30"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "MC2!n5!n5!n11!c2!n",
+      "iban_length": "27",
+      "effective_date": "Jan-08",
+      "iban_electronic_format_example": "MC5811222000010123456789030",
+      "iban_print_format_example": "MC58 1122 2000 0101 2345 6789 030"
+    },
+    "contact_details": {
+      "organisation": "Principaute de Monaco",
+      "department": "",
+      "street_address": "7, rue du Gabian",
+      "city_postcode": "MC98000",
+      "department_generic_email": "amaf@amaf.mc",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Moldova, Republic of",
+      "iban_prefix_country_code_iso": "MD",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "000225100013104168"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "2!c18!c",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!c",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "AG",
+      "branch_identifier_example": "",
+      "bban_example": "AG000225100013104168"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "MD2!n2!c18!c",
+      "iban_length": "24",
+      "effective_date": "Jan-16",
+      "iban_electronic_format_example": "MD24AG000225100013104168",
+      "iban_print_format_example": "MD24 AG00 0225 1000 1310 4168"
+    },
+    "contact_details": {
+      "organisation": "National Bank of Moldova",
+      "department": "Payments System",
+      "street_address": "1 Grigore Vieru Avenue",
+      "city_postcode": "MD-2005 Chisinau",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Susu",
+          "first_name": "Victor",
+          "title": "Director of Payments System Department",
+          "email": "Victor.Susu@bnm.md",
+          "tel": "+ 373 22822610"
+        },
+        {
+          "priority": "secondary",
+          "name": "Turcan-Munteanu",
+          "first_name": "Natalia",
+          "title": "Head of Regulation, licensing and supervision of payment services providers and electronic money issuers Direction",
+          "email": "Natalia.Turcan-Munteanu@bnm.md",
+          "tel": "+ 373 22822265"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Montenegro",
+      "iban_prefix_country_code_iso": "ME",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "505 0000123456789 51"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n13!n2!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "505",
+      "branch_identifier_example": "",
+      "bban_example": "505000012345678951"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "ME2!n3!n13!n2!n",
+      "iban_length": "22",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "ME25505000012345678951",
+      "iban_print_format_example": "ME25 5050 0001 2345 6789 51"
+    },
+    "contact_details": {
+      "organisation": "Association of Montenegrin Banks",
+      "department": "",
+      "street_address": "Novaka Miloseva bb",
+      "city_postcode": "81000 Podgorica",
+      "department_generic_email": "udruzenjebanaka@t-com.me",
+      "department_tel": "+ 381 81232028",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Radonjic",
+          "first_name": "Mirko",
+          "title": "Secretary General",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "May-10"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "North Macedonia",
+      "iban_prefix_country_code_iso": "MK",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "250 0000000424 25"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n10!c2!n",
+      "bban_length": "15",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "250",
+      "branch_identifier_example": "",
+      "bban_example": "250120000058984"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "MK2!n3!n10!c2!n",
+      "iban_length": "19",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "MK07250120000058984",
+      "iban_print_format_example": "MK07 2501 2000 0058 984"
+    },
+    "contact_details": {
+      "organisation": "National Bank of the Republic of Macedonia",
+      "department": "",
+      "street_address": "K.J.Pitu 1",
+      "city_postcode": "1000 Skopje",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Spasovski, M.Sc.Econ",
+          "first_name": "Aco",
+          "title": "Secretary",
+          "email": "aco@ic.mchamber.org.mk",
+          "tel": "+ 389 23237425"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Mongolia",
+      "iban_prefix_country_code_iso": "MN",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "1234 5678 9123"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n12!n",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "1234",
+      "branch_identifier_example": "",
+      "bban_example": "1234123456789123"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "MN2!n4!n12!n",
+      "iban_length": "20",
+      "effective_date": "Apr-23",
+      "iban_electronic_format_example": "MN121234123456789123",
+      "iban_print_format_example": "MN12 1234 1234 5678 9123"
+    },
+    "contact_details": {
+      "organisation": "Bank of Mongolia (The Central Bank)",
+      "department": "",
+      "street_address": "Baga toiruu-3",
+      "city_postcode": "15160 Ulaanbaatar",
+      "department_generic_email": "",
+      "department_tel": "976-11-327510",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Apr-23"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Mauritania",
+      "iban_prefix_country_code_iso": "MR",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00020 00101 00001234567 53"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n5!n11!n2!n",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "6-10",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "00020",
+      "branch_identifier_example": "00101",
+      "bban_example": "00020001010000123456753"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "MR2!n5!n5!n11!n2!n",
+      "iban_length": "27",
+      "effective_date": "Jan-12",
+      "iban_electronic_format_example": "MR1300020001010000123456753",
+      "iban_print_format_example": "MR13 0002 0001 0100 0012 3456 753"
+    },
+    "contact_details": {
+      "organisation": "Banque Centrale de Mauritanie",
+      "department": "",
+      "street_address": "Avenue de lIndependance",
+      "city_postcode": "BP 623 Nouakchott",
+      "department_generic_email": "info@bcm.mr",
+      "department_tel": "+ 222 45255206",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Malta",
+      "iban_prefix_country_code_iso": "MT",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0012345MTLCAST001S"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a5!n18!c",
+      "bban_length": "27",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "5-9",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "MALT",
+      "branch_identifier_example": "01100",
+      "bban_example": "MALT011000012345MTLCAST001S"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "MT2!n4!a5!n18!c",
+      "iban_length": "31",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "MT84MALT011000012345MTLCAST001S",
+      "iban_print_format_example": "MT84 MALT 0110 0001 2345 MTLC AST0 01S"
+    },
+    "contact_details": {
+      "organisation": "Malta Bankers Association",
+      "department": "The Secretary General",
+      "street_address": "48/2 Birkirkara Road",
+      "city_postcode": "Attard ATD1210",
+      "department_generic_email": "info@maltabankers.org",
+      "department_tel": "+ 356 21412210 / + 356 21410572",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Mauritius",
+      "iban_prefix_country_code_iso": "MU",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "BOMM 0101 1010 3030 0200 000M UR"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a2!n2!n12!n3!n3!a",
+      "bban_length": "26",
+      "bank_identifier_position_within_the_bban": "1-6",
+      "bank_identifier_pattern": "4!a2!n",
+      "branch_identifier_position_within_the_bban": "7-8",
+      "branch_identifier_pattern": "2!n",
+      "bank_identifier_example": "BOMM01",
+      "branch_identifier_example": "01",
+      "bban_example": "BOMM0101101030300200000MUR"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "MU2!n4!a2!n2!n12!n3!n3!a",
+      "iban_length": "30",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "MU17BOMM0101101030300200000MUR",
+      "iban_print_format_example": "MU17 BOMM 0101 1010 3030 0200 000M UR"
+    },
+    "contact_details": {
+      "organisation": "The Central Bank of Mauritius",
+      "department": "",
+      "street_address": "Sir William Newton Street",
+      "city_postcode": "Port Louis",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Googoolye",
+          "first_name": "Yandraduth",
+          "title": "Director Accounting, Budgeting and Payment",
+          "email": "ygoogool@bom.intnet.mu",
+          "tel": "+ 230 2023842"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Nicaragua",
+      "iban_prefix_country_code_iso": "NI",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00000013000003558124"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a20!n",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "BAPR",
+      "branch_identifier_example": "",
+      "bban_example": "BAPR00000013000003558124"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "NI2!n4!a20!n",
+      "iban_length": "28",
+      "effective_date": "Apr-23",
+      "iban_electronic_format_example": "NI45BAPR00000013000003558124",
+      "iban_print_format_example": "NI45 BAPR 0000 0013 0000 0355 8124"
+    },
+    "contact_details": {
+      "organisation": "Banco Central de Nicaragua",
+      "department": "",
+      "street_address": "Paso a Desnivel Nejapa, 100 metros al este, Pista Juan Pablo II",
+      "city_postcode": "2252 - 2253 Managua",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Dec-24"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Netherlands (The)",
+      "iban_prefix_country_code_iso": "NL",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "041 71 64 300"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a10!n",
+      "bban_length": "14",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "ABNA",
+      "branch_identifier_example": "",
+      "bban_example": "ABNA0417164300"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "NL2!n4!a10!n",
+      "iban_length": "18",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "NL91ABNA0417164300",
+      "iban_print_format_example": "NL91 ABNA 0417 1643 00"
+    },
+    "contact_details": {
+      "organisation": "Betaalvereniging Nederland",
+      "department": " www.betaalvereniging.nl/a_NL_IBAN_exception",
+      "street_address": "P.O Box 83073",
+      "city_postcode": "1080 AB Amsterdam",
+      "department_generic_email": "sepa@betaalvereniging.nl - info@betaalvereniging.nl",
+      "department_tel": "+ 31 203051900",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-20"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Norway",
+      "iban_prefix_country_code_iso": "NO",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "8601 11 17947"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n6!n1!n",
+      "bban_length": "11",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "8601",
+      "branch_identifier_example": "",
+      "bban_example": "86011117947"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "NO2!n4!n6!n1!n",
+      "iban_length": "15",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "NO9386011117947",
+      "iban_print_format_example": "NO93 8601 1117 947"
+    },
+    "contact_details": {
+      "organisation": "DnB NOR Bank",
+      "department": "",
+      "street_address": "p.o.box 7100",
+      "city_postcode": "5020 Bergen",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Fjereide",
+          "first_name": "Atle",
+          "title": "",
+          "email": "atle.fjereide@dnbnor.no",
+          "tel": "+ 47 91895624"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-09"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Oman",
+      "iban_prefix_country_code_iso": "OM",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000001299123456"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n16!c",
+      "bban_length": "19",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "018",
+      "branch_identifier_example": "",
+      "bban_example": "0180000001299123456"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "OM2!n3!n16!c",
+      "iban_length": "23",
+      "effective_date": "Mar-24",
+      "iban_electronic_format_example": "OM810180000001299123456",
+      "iban_print_format_example": "OM81 0180 0000 0129 9123 456"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Oman",
+      "department": "",
+      "street_address": "Head Office, Al Markazi, Building Number:44\nP.O. Box 1161",
+      "city_postcode": "112 Ruwi - Commercial Business District - Muscat",
+      "department_generic_email": "cso@cbo.gov.om",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Al Rawahi",
+          "first_name": "Abdullah",
+          "title": "Associate Payment System Specialist",
+          "email": "Abdullah.alwarahi@cbo.gov.om",
+          "tel": "+968 24149173"
+        },
+        {
+          "priority": "secondary",
+          "name": "Al Siyabi",
+          "first_name": "Mohamed",
+          "title": "Payment System Specialist",
+          "email": "Mohamed.alsiyabi@cbo.gov.om",
+          "tel": "+968 24149086"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Mar-24"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Pakistan",
+      "iban_prefix_country_code_iso": "PK",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000001123456702"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a16!c",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "SCBL",
+      "branch_identifier_example": "",
+      "bban_example": "SCBL0000001123456702"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "PK2!n4!a16!c",
+      "iban_length": "24",
+      "effective_date": "Dec-12",
+      "iban_electronic_format_example": "PK36SCBL0000001123456702",
+      "iban_print_format_example": "PK36 SCBL 0000 0011 2345 6702"
+    },
+    "contact_details": {
+      "organisation": "State Bank of Pakistan",
+      "department": "Payment Systems",
+      "street_address": "4th Floor, Main Building, I.I. Chundrigar Road.",
+      "city_postcode": "74000 Karachi  Sindh  Pakistan",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Khan",
+          "first_name": "Zamir",
+          "title": "Joint Director",
+          "email": "zamir.afzal@sbp.org.pk",
+          "tel": "+ 92 2199221152"
+        },
+        {
+          "priority": "secondary",
+          "name": "Mazhar",
+          "first_name": "Faisal",
+          "title": "Deputy Director",
+          "email": "faisal.mazhar@sbp.org.pk",
+          "tel": "+ 92 2132453497"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Poland",
+      "iban_prefix_country_code_iso": "PL",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "1090 1014 0000 0712 1981 2874"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "8!n16!n",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-8",
+      "bank_identifier_pattern": "8!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "",
+      "branch_identifier_example": "10901014",
+      "bban_example": "109010140000071219812874"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "PL2!n8!n16!n",
+      "iban_length": "28",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "PL61109010140000071219812874",
+      "iban_print_format_example": "PL61 1090 1014 0000 0712 1981 2874"
+    },
+    "contact_details": {
+      "organisation": "Narodowy Bank Polski",
+      "department": "Payment Systems Deparment",
+      "street_address": "Swietokrzyska 11/21",
+      "city_postcode": "00  919 Warsaw",
+      "department_generic_email": "sekretariat.dsp@nbp.pl",
+      "department_tel": "48 22 185 27 25",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Lysakowski",
+          "first_name": "Pawel",
+          "title": "Head of Division",
+          "email": "pawel.lysakowski@nbp.pl",
+          "tel": "48 22 185 14 48"
+        },
+        {
+          "priority": "secondary",
+          "name": "Battara",
+          "first_name": "Ewelina",
+          "title": "Senior Specialist",
+          "email": "ewelina.battara@zbp.pl",
+          "tel": "+48603209449"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Palestine, State of",
+      "iban_prefix_country_code_iso": "PS",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "000000000400123456702"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a21!c",
+      "bban_length": "25",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "PALS",
+      "branch_identifier_example": "",
+      "bban_example": "PALS000000000400123456702"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "PS2!n4!a21!c",
+      "iban_length": "29",
+      "effective_date": "Jul-12",
+      "iban_electronic_format_example": "PS92PALS000000000400123456702",
+      "iban_print_format_example": "PS92 PALS 0000 0000 0400 1234 5670 2"
+    },
+    "contact_details": {
+      "organisation": "Palestine Monetary Authority",
+      "department": "Payment Systems",
+      "street_address": "Al-Ramouni\nNablus Street",
+      "city_postcode": "452 AL-BIREH",
+      "department_generic_email": "psdsupport@pma.ps",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Awwad",
+          "first_name": "Riyad",
+          "title": "Director",
+          "email": "rawwad@pma.ps",
+          "tel": "+ 970 224415250"
+        },
+        {
+          "priority": "secondary",
+          "name": "Hindi",
+          "first_name": "Fares",
+          "title": "Deputy Director",
+          "email": "fhindi@pma.ps",
+          "tel": "+ 970 22415250"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Portugal",
+      "iban_prefix_country_code_iso": "PT",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "Azores, Madeira",
+      "domestic_account_number_example": "1234567890154"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n4!n11!n2!n",
+      "bban_length": "21",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "0002",
+      "branch_identifier_example": "0123",
+      "bban_example": "000201231234567890154"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "PT2!n4!n4!n11!n2!n",
+      "iban_length": "25",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "PT50000201231234567890154",
+      "iban_print_format_example": "PT50 0002 0123 1234 5678 9015 4"
+    },
+    "contact_details": {
+      "organisation": "Banco de Portugal",
+      "department": "Payment Systems Department",
+      "street_address": "RUA DO COMERCIO, 148",
+      "city_postcode": "1100-148 Lisboa",
+      "department_generic_email": "dpg@bportugal.pt",
+      "department_tel": "+ 351 217813000",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jun-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Qatar",
+      "iban_prefix_country_code_iso": "QA",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00001234567890ABCDEFG"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a21!c",
+      "bban_length": "25",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "DOHB",
+      "branch_identifier_example": "",
+      "bban_example": "DOHB00001234567890ABCDEFG"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "QA2!n4!a21!c",
+      "iban_length": "29",
+      "effective_date": "Jan-14",
+      "iban_electronic_format_example": "QA58DOHB00001234567890ABCDEFG",
+      "iban_print_format_example": "QA58 DOHB 0000 1234 5678 90AB CDEF G"
+    },
+    "contact_details": {
+      "organisation": "Qatar Central Bank",
+      "department": "Banking Payments and Settlement System",
+      "street_address": "Abdulla Bin Jassim Street",
+      "city_postcode": "1234 Doha",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Abdoulhadi",
+          "first_name": "Ahen",
+          "title": "Acting Director of Banking Payments and Settlement",
+          "email": "ahena@qcb.gov.qa",
+          "tel": "+ 974 44456371"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jan-14"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Romania",
+      "iban_prefix_country_code_iso": "RO",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "AAAA 1B31 0075 9384 0000"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a16!c",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "AAAA",
+      "branch_identifier_example": "",
+      "bban_example": "AAAA1B31007593840000"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "RO2!n4!a16!c",
+      "iban_length": "24",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "RO49AAAA1B31007593840000",
+      "iban_print_format_example": "RO49 AAAA 1B31 0075 9384 0000"
+    },
+    "contact_details": {
+      "organisation": "National Bank of Romania",
+      "department": "",
+      "street_address": "Lipscani St.,25th",
+      "city_postcode": "Sector 3, Bucharest 030031",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Avram",
+          "first_name": "Ruxandra",
+          "title": "",
+          "email": "ruxandra.avram@bnro.ro",
+          "tel": "+ 40 213070198"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Serbia",
+      "iban_prefix_country_code_iso": "RS",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "260-0056010016113-79"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n13!n2!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "260",
+      "branch_identifier_example": "",
+      "bban_example": "260005601001611379"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "RS2!n3!n13!n2!n",
+      "iban_length": "22",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "RS35260005601001611379",
+      "iban_print_format_example": "RS35 2600 0560 1001 6113 79"
+    },
+    "contact_details": {
+      "organisation": "National bank of Serbia",
+      "department": "",
+      "street_address": "Nemanjina 17",
+      "city_postcode": "11000 Belgrade",
+      "department_generic_email": "platni.sistem@nbs.rs",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Dragana",
+          "first_name": "Stanic",
+          "title": "",
+          "email": "platni.sistem@nbs.rs",
+          "tel": "+381 113338050"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Mar-17"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Russian Federation",
+      "iban_prefix_country_code_iso": "RU",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "40817 810 5 3809 1310419"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "9!n5!n15!c",
+      "bban_length": "29",
+      "bank_identifier_position_within_the_bban": "1-9",
+      "bank_identifier_pattern": "9!n",
+      "branch_identifier_position_within_the_bban": "10-14",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "044525225",
+      "branch_identifier_example": "40817",
+      "bban_example": "044525225 40817 810 5 3809 1310419"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "RU2!n9!n5!n15!c",
+      "iban_length": "33",
+      "effective_date": "Apr-23",
+      "iban_electronic_format_example": "RU0304452522540817810538091310419",
+      "iban_print_format_example": "RU03 0445 2522 5408 1781 0538 0913 1041 9"
+    },
+    "contact_details": {
+      "organisation": "The Central Bank of the Russian Federation",
+      "department": "",
+      "street_address": "Neglinnaya Street, 12",
+      "city_postcode": "Moscow",
+      "department_generic_email": "svc_dnps_ornps@cbr.ru",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "Myznikov",
+          "first_name": "Mikhail",
+          "title": "Advisor Economical",
+          "email": "mmv4@cbr.ru",
+          "tel": "+7(495)771-43-92"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Saudi Arabia",
+      "iban_prefix_country_code_iso": "SA",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "000000608010167519"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "2!n18!c",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "80",
+      "branch_identifier_example": "",
+      "bban_example": "80000000608010167519"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SA2!n2!n18!c",
+      "iban_length": "24",
+      "effective_date": "Jul-16",
+      "iban_electronic_format_example": "SA0380000000608010167519",
+      "iban_print_format_example": "SA03 8000 0000 6080 1016 7519"
+    },
+    "contact_details": {
+      "organisation": "SAMA, Head Office",
+      "department": "General Department of Payment Systems",
+      "street_address": "P.O. BOX 2992",
+      "city_postcode": "Riyadh 11169",
+      "department_generic_email": "gdps@sama.gov.sa",
+      "department_tel": "+ 966 114662015",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Seychelles",
+      "iban_prefix_country_code_iso": "SC",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000000000001497"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a2!n2!n16!n3!a",
+      "bban_length": "27",
+      "bank_identifier_position_within_the_bban": "1-6",
+      "bank_identifier_pattern": "4!a2!n",
+      "branch_identifier_position_within_the_bban": "7-8",
+      "branch_identifier_pattern": "2!n",
+      "bank_identifier_example": "SSCB11",
+      "branch_identifier_example": "01",
+      "bban_example": "SSCB11010000000000001497USD"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SC2!n4!a2!n2!n16!n3!a",
+      "iban_length": "31",
+      "effective_date": "Oct-16",
+      "iban_electronic_format_example": "SC18SSCB11010000000000001497USD",
+      "iban_print_format_example": "SC18 SSCB 1101 0000 0000 0000 1497 USD"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Seychelles",
+      "department": "",
+      "street_address": "Independence Avenue",
+      "city_postcode": "Victoria - Mahe",
+      "department_generic_email": "Psd@cbs.sc; BankingServices@cbs.sc",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-19"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Sudan",
+      "iban_prefix_country_code_iso": "SD",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "010501234001"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "2!n12!n",
+      "bban_length": "14",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "29",
+      "branch_identifier_example": "",
+      "bban_example": "29010501234001"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SD2!n2!n12!n",
+      "iban_length": "18",
+      "effective_date": "Jul-21",
+      "iban_electronic_format_example": "SD2129010501234001",
+      "iban_print_format_example": "SD21 2901 0501 2340 01"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Sudan (CBOS)",
+      "department": "",
+      "street_address": "HQ Building of Central Bank of SudanAljammah St.",
+      "city_postcode": "Khartoum 11111/313",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Aboshock",
+          "first_name": "Ahmed Mohamed Ahmed",
+          "title": "Project Manager",
+          "email": "ahmed.elhassan@cbos.gov.sd",
+          "tel": "+24 9187055588 / +24 9912207225"
+        },
+        {
+          "priority": "secondary",
+          "name": "Mahgoub",
+          "first_name": "Mohamed Ismail",
+          "title": "Head section",
+          "email": "mohamed.mahgoub@cbos.gov.sd",
+          "tel": "+ 24 9187055157 / +24 9912951582"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-21"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Sweden",
+      "iban_prefix_country_code_iso": "SE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "1234 12 3456 1"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n16!n1!n",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "123",
+      "branch_identifier_example": "",
+      "bban_example": "50000000058398257466"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SE2!n3!n16!n1!n",
+      "iban_length": "24",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "SE4550000000058398257466",
+      "iban_print_format_example": "SE45 5000 0000 0583 9825 7466"
+    },
+    "contact_details": {
+      "organisation": "Swedish Bankers Association",
+      "department": "",
+      "street_address": "",
+      "city_postcode": "SE - 103 94 Stockholm",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Rutberg",
+          "first_name": "Lars",
+          "title": "",
+          "email": "lars.rutberg@bankforeningen.se",
+          "tel": "+ 46 84534450"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-09"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Slovenia",
+      "iban_prefix_country_code_iso": "SI",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "2633 0001 2039 086"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n8!n2!n",
+      "bban_length": "15",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "26330",
+      "branch_identifier_example": "",
+      "bban_example": "263300012039086"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SI2!n5!n8!n2!n",
+      "iban_length": "19",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "SI56263300012039086",
+      "iban_print_format_example": "SI56 2633 0001 2039 086"
+    },
+    "contact_details": {
+      "organisation": "Bank of Slovenia",
+      "department": "Payment and Settlement Systems",
+      "street_address": "Slovenska 35",
+      "city_postcode": "SI-1505 Ljubljana",
+      "department_generic_email": "Pomoc.PS@bsi.si",
+      "department_tel": "+389 1 4719 568",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Slovakia",
+      "iban_prefix_country_code_iso": "SK",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "19-8742637541/1200"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n6!n10!n",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "1200",
+      "branch_identifier_example": "",
+      "bban_example": "12000000198742637541"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SK2!n4!n6!n10!n",
+      "iban_length": "24",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "SK3112000000198742637541",
+      "iban_print_format_example": "SK31 1200 0000 1987 4263 7541"
+    },
+    "contact_details": {
+      "organisation": "National Bank of Slovakia",
+      "department": "",
+      "street_address": "Imricha Karvasa 1",
+      "city_postcode": "813 25 Bratislava 1",
+      "department_generic_email": "info@nbs.sk",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "San Marino",
+      "iban_prefix_country_code_iso": "SM",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "N/A"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "1!a5!n5!n12!c",
+      "bban_length": "23",
+      "bank_identifier_position_within_the_bban": "2-6",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "7-11",
+      "branch_identifier_pattern": "5!n",
+      "bank_identifier_example": "03225",
+      "branch_identifier_example": "09800",
+      "bban_example": "U0322509800000000270100"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SM2!n1!a5!n5!n12!c",
+      "iban_length": "27",
+      "effective_date": "Aug-07",
+      "iban_electronic_format_example": "SM86U0322509800000000270100",
+      "iban_print_format_example": "SM86 U032 2509 8000 0000 0270 100"
+    },
+    "contact_details": {
+      "organisation": "Banca Centrale della Repubblica di San Marino",
+      "department": "Payments System",
+      "street_address": "Via del Voltone, 120",
+      "city_postcode": "San Marino 47890",
+      "department_generic_email": "sistemi.pagamento@bcsm.sm",
+      "department_tel": "+ 378 882325",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Aug-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Somalia",
+      "iban_prefix_country_code_iso": "SO",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "001000100141"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n3!n12!n",
+      "bban_length": "19",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "5-7",
+      "branch_identifier_pattern": "3!n",
+      "bank_identifier_example": "1000",
+      "branch_identifier_example": "001",
+      "bban_example": "1000001001000100141"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SO2!n4!n3!n12!n",
+      "iban_length": "23",
+      "effective_date": "Jan-23",
+      "iban_electronic_format_example": "SO211000001001000100141",
+      "iban_print_format_example": "SO21 1000 0010 0100 0100 141"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Somalia",
+      "department": "",
+      "street_address": "Corso Somalia, 55\nP.O Box 11",
+      "city_postcode": "Mogadishu",
+      "department_generic_email": "info@centralbank.gov.so",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Feb-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Sao Tome and Principe",
+      "iban_prefix_country_code_iso": "ST",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0051845310146"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n4!n11!n2!n",
+      "bban_length": "21",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!n",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "0001",
+      "branch_identifier_example": "0001",
+      "bban_example": "000100010051845310146"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "ST2!n4!n4!n11!n2!n",
+      "iban_length": "25",
+      "effective_date": "Mar-20",
+      "iban_electronic_format_example": "ST23000100010051845310146",
+      "iban_print_format_example": "ST23 0001 0001 0051 8453 1014 6"
+    },
+    "contact_details": {
+      "organisation": "Banco Central de Sao Tome e Principe",
+      "department": "DSP",
+      "street_address": "Avenida Marginal 12 de Julho",
+      "city_postcode": "CP 13 Sao Tome",
+      "department_generic_email": "dsp@bcstp.st",
+      "department_tel": "+239 2243700",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Quaresma",
+          "first_name": "Venancio",
+          "title": "Payment System Oversight Section",
+          "email": "a_q_venancio@bcstp.st",
+          "tel": "+ 239 2243700"
+        },
+        {
+          "priority": "secondary",
+          "name": "De Sousa",
+          "first_name": "Luis",
+          "title": "Consultant - PMOG",
+          "email": "lufermoso@bcstp.st",
+          "tel": "+ 239 2243700"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "May-20"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "El Salvador",
+      "iban_prefix_country_code_iso": "SV",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00000000000000700025"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a20!n",
+      "bban_length": "24",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a ",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "CENR",
+      "branch_identifier_example": "",
+      "bban_example": "CENR00000000000000700025"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "SV2!n4!a20!n",
+      "iban_length": "28",
+      "effective_date": "Dec-16",
+      "iban_electronic_format_example": "SV62CENR00000000000000700025",
+      "iban_print_format_example": "SV 62 CENR 00000000000000700025"
+    },
+    "contact_details": {
+      "organisation": "Banco Central de Reserva de El Salvador",
+      "department": "Departamento de Pagos y Valores",
+      "street_address": "1a Calle Poniente y 7Av. Nte. N 418",
+      "city_postcode": "San Salvador",
+      "department_generic_email": "maria.delgado@bcr.gov.sv",
+      "department_tel": "503 2281 8831",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Alberto Hernandez",
+          "first_name": "Juan  ",
+          "title": "Gerente de Operacio",
+          "email": "juan.hernandez@bcr.gob.sv",
+          "tel": "503 2281 8801"
+        },
+        {
+          "priority": "secondary",
+          "name": "de los Angeles de Alvarado",
+          "first_name": "Maria",
+          "title": "Jefe del Departamento de Pagos y Valores",
+          "email": "maria.delgado@bcr.gov.sv",
+          "tel": "503 2281 8830"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Mar-21"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Timor-Leste",
+      "iban_prefix_country_code_iso": "TL",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "008 00123456789101 57"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n14!n2!n",
+      "bban_length": "19",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "008",
+      "branch_identifier_example": "",
+      "bban_example": "0080012345678910157"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "TL2!n3!n14!n2!n",
+      "iban_length": "23",
+      "effective_date": "Sep-14",
+      "iban_electronic_format_example": "TL380080012345678910157",
+      "iban_print_format_example": "TL38 0080 0123 4567 8910 157"
+    },
+    "contact_details": {
+      "organisation": "Banco Central de Timor-Leste",
+      "department": "",
+      "street_address": "Avenida Bispo Medeiros",
+      "city_postcode": "Dili",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Lobo Brites",
+          "first_name": "Sara",
+          "title": "Deputy Governor - Payments and Banking",
+          "email": "sara.brites@bancocentral.tl",
+          "tel": "+ 670 3313718"
+        },
+        {
+          "priority": "secondary",
+          "name": "Aini Djafar Alkatiri",
+          "first_name": "Nur",
+          "title": "Deputy Governor  Financial Supervision",
+          "email": "nur.alkatiri@bancocentral.tl",
+          "tel": "+ 670 3313318"
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Nov-14"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Tunisia",
+      "iban_prefix_country_code_iso": "TN",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "10 006 0351835984788 31"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "2!n3!n13!n2!n",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!n",
+      "branch_identifier_position_within_the_bban": "3-5",
+      "branch_identifier_pattern": "3!n",
+      "bank_identifier_example": "10",
+      "branch_identifier_example": "006",
+      "bban_example": "10006035183598478831"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "TN2!n2!n3!n13!n2!n",
+      "iban_length": "24",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "TN5910006035183598478831",
+      "iban_print_format_example": "TN59 1000 6035 1835 9847 8831"
+    },
+    "contact_details": {
+      "organisation": "Tunisias Professional Association for Banks & Financial Institutions",
+      "department": "",
+      "street_address": "",
+      "city_postcode": "",
+      "department_generic_email": "info@apbt.org.tn",
+      "department_tel": "+ 216 71904423",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "May-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Turkiye",
+      "iban_prefix_country_code_iso": "TR",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": ""
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "5!n1!n16!c",
+      "bban_length": "22",
+      "bank_identifier_position_within_the_bban": "1-5",
+      "bank_identifier_pattern": "5!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "00061",
+      "branch_identifier_example": "",
+      "bban_example": "0006100519786457841326"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "TR2!n5!n1!n16!c",
+      "iban_length": "26",
+      "effective_date": "Apr-07",
+      "iban_electronic_format_example": "TR330006100519786457841326",
+      "iban_print_format_example": "TR33 0006 1005 1978 6457 8413 26"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of the Republic of Turkey",
+      "department": "Payment Systems",
+      "street_address": "Anafartalar Mah. istiklal Cad. No:10\nUlus Altindag",
+      "city_postcode": "Ankara / 06050",
+      "department_generic_email": "paymentsystems@tcmb.gov.tr",
+      "department_tel": "+ 90 3125077901 / 02",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Ukraine",
+      "iban_prefix_country_code_iso": "UA",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "0000026007233566001"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "6!n19!c",
+      "bban_length": "25",
+      "bank_identifier_position_within_the_bban": "1-6",
+      "bank_identifier_pattern": "6!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "322313",
+      "branch_identifier_example": "",
+      "bban_example": "3223130000026007233566001"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "UA2!n6!n19!c",
+      "iban_length": "29",
+      "effective_date": "Feb-16",
+      "iban_electronic_format_example": "UA213223130000026007233566001",
+      "iban_print_format_example": "UA21 3223 1300 0002 6007 2335 6600 1"
+    },
+    "contact_details": {
+      "organisation": "Association UkrSWIFT",
+      "department": "Executive Board",
+      "street_address": "21A, Observatoma Str.",
+      "city_postcode": "04053 Kiev",
+      "department_generic_email": "ukrswift@ukrswift.org",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Holy See",
+      "iban_prefix_country_code_iso": "VA",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "Yes",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "123000012345678"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "3!n15!n",
+      "bban_length": "18",
+      "bank_identifier_position_within_the_bban": "1-3",
+      "bank_identifier_pattern": "3!n",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "001",
+      "branch_identifier_example": "",
+      "bban_example": "001123000012345678"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "VA2!n3!n15!n",
+      "iban_length": "22",
+      "effective_date": "Mar-19",
+      "iban_electronic_format_example": "VA59001123000012345678",
+      "iban_print_format_example": "VA59 001 1230 0001 2345 678"
+    },
+    "contact_details": {
+      "organisation": "Financial Information Authority (Autorita di Informazione Finanziaria - AIF)",
+      "department": "Office for Supervision and Regulation",
+      "street_address": "Palazzo San Carlo",
+      "city_postcode": "N/A 00120",
+      "department_generic_email": "uvr@aif.va",
+      "department_tel": "+39 06 69871522",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Di Ruzza",
+          "first_name": "Tommaso",
+          "title": "Director, Financial Information Authority",
+          "email": "aif@aif.va ; diruzza@aif.va",
+          "tel": "+39 06 698 84423"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Virgin Islands (British)",
+      "iban_prefix_country_code_iso": "VG",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "00000 12 345 678 901"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a16!n",
+      "bban_length": "20",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "",
+      "branch_identifier_pattern": "",
+      "bank_identifier_example": "VPVG",
+      "branch_identifier_example": "",
+      "bban_example": "VPVG0000012345678901"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "VG2!n4!a16!n",
+      "iban_length": "24",
+      "effective_date": "Apr-12",
+      "iban_electronic_format_example": "VG96VPVG0000012345678901",
+      "iban_print_format_example": "VG96 VPVG 0000 0123 4567 8901"
+    },
+    "contact_details": {
+      "organisation": "VP Bank House",
+      "department": "",
+      "street_address": "156 Mainstreet",
+      "city_postcode": "VG1110 Road Town\nTortola",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "Reichenstein",
+          "first_name": "Peter",
+          "title": "Managing Director",
+          "email": "peter.reichenstein@vpbank.com",
+          "tel": "+ 1 2844941100"
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Oct-25"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Kosovo",
+      "iban_prefix_country_code_iso": "XK",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "1212 0123456789 06"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!n10!n2!n",
+      "bban_length": "16",
+      "bank_identifier_position_within_the_bban": "1-2",
+      "bank_identifier_pattern": "2!n",
+      "branch_identifier_position_within_the_bban": "3-4",
+      "branch_identifier_pattern": "2!n",
+      "bank_identifier_example": "12",
+      "branch_identifier_example": "12",
+      "bban_example": "1212012345678906"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "XK2!n4!n10!n2!n",
+      "iban_length": "20",
+      "effective_date": "Sep-14",
+      "iban_electronic_format_example": "XK051212012345678906",
+      "iban_print_format_example": "XK05 1212 0123 4567 8906"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of the Republic of Kosovo",
+      "department": "Payment Systems",
+      "street_address": "Garibaldi 33",
+      "city_postcode": "Prishtina / 10000",
+      "department_generic_email": "payment.systems@bqk-kos.org",
+      "department_tel": "+ 381 (0)38222055 (ext. 209, 210 and 211)",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Sep-16"
+    }
+  },
+  {
+    "data_element": {
+      "name_of_country": "Yemen",
+      "iban_prefix_country_code_iso": "YE",
+      "country_code_includes_other_countries_territories": "N/A",
+      "sepa_country": "No",
+      "sepa_country_also_includes": "N/A",
+      "domestic_account_number_example": "018861234567891234"
+    },
+    "bban": {
+      "bban": "",
+      "bban_structure": "4!a4!n18!c",
+      "bban_length": "26",
+      "bank_identifier_position_within_the_bban": "1-4",
+      "bank_identifier_pattern": "4!a",
+      "branch_identifier_position_within_the_bban": "5-8",
+      "branch_identifier_pattern": "4!n",
+      "bank_identifier_example": "CBYE",
+      "branch_identifier_example": "0001",
+      "bban_example": "CBYE0001018861234567891234"
+    },
+    "iban": {
+      "iban": "",
+      "iban_structure": "YE2!n4!a4!n18!c",
+      "iban_length": "30",
+      "effective_date": "Jul-24",
+      "iban_electronic_format_example": "YE15CBYE0001018861234567891234",
+      "iban_print_format_example": "YE15 CBYE 0001 0188 6123 4567 8912 34"
+    },
+    "contact_details": {
+      "organisation": "Central Bank of Yemen",
+      "department": "Payment Systems Depatment",
+      "street_address": "Crater Aledaroos Street 452",
+      "city_postcode": "Aden",
+      "department_generic_email": "",
+      "department_tel": "",
+      "contacts": [
+        {
+          "priority": "primary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        },
+        {
+          "priority": "secondary",
+          "name": "",
+          "first_name": "",
+          "title": "",
+          "email": "",
+          "tel": ""
+        }
+      ]
+    },
+    "updates": {
+      "last_update_date": "Jul-24"
+    }
+  }
+]

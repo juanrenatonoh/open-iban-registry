@@ -1,0 +1,66 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+*.whl
+
+# Entornos virtuales
+env/
+venv/
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Testing
+.pytest_cache
+.mypy_cache
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Docker
+docker-compose.yml
+docker-compose.*.yml
+Dockerfile*
+.dockerignore
+
+# Documentación y otros
+README.md
+*.md
+docs/
+tests/
+.github/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

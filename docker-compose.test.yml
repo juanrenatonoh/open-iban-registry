@@ -1,0 +1,20 @@
+name: open_iban_registry_test
+services:
+
+  open_iban_registry_test:
+    container_name: open_iban_registry_test
+    image: ghcr.io/juanrenatonoh/iban-registry:latest
+    env_file:
+      - .env.test
+    depends_on:
+      - mongodb_open_swift
+    ports:
+      - 8000:8000
+  mongodb_open_swift:
+    container_name: mongodb_open_swift
+    image: mongodb/mongodb-community-server:7.0-ubi8
+    volumes:
+      - mongodb_open_swift:/data/db
+
+volumes:
+  mongodb_open_swift:

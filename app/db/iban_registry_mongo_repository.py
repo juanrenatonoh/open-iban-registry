@@ -1,0 +1,37 @@
+from .config_db import db
+from ..model.iban_registry import IBANRegistry
+
+
+class IbanRegistryMongoRepository:
+
+    def __init__(self):
+        self.collection = db["iban_registry"]
+
+    """
+    Save list of iban registry in the database
+    """
+
+    def save(self, iban_registry: list[IBANRegistry]):
+
+        if not iban_registry:
+            return 0
+
+        records = [record.dict() for record in iban_registry]
+        result = self.collection.insert_many(records)
+
+        return len(result.inserted_ids)
+
+    """
+    Find all records in the database
+    """
+
+    def find_all(self):
+        records = self.collection.find({}, {"_id": 0}).to_list()
+        return records
+
+    """
+    Delete all records in the database
+    """
+
+    def delete_all(self):
+        self.collection.delete_many({})

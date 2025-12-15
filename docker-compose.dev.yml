@@ -1,0 +1,23 @@
+name: open_iban_registry_dev
+services:
+
+  open_iban_registry_dev:
+    container_name: open_iban_registry_dev
+    build: .
+    env_file:
+      - .env.dev
+    depends_on:
+      - mongodb_open_swift
+    volumes:
+      - ./app:/open_iban_registry/app
+    ports:
+      - 8000:8000
+    command: uv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+
+  mongodb_open_swift:
+    container_name: mongodb_open_swift
+    image: mongodb/mongodb-community-server:7.0-ubi8
+    volumes:
+      - mongodb_open_swift:/data/db
+volumes:
+  mongodb_open_swift:

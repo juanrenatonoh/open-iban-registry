@@ -1,0 +1,15 @@
+[project]
+name = "iban-registry"
+version = "0.1.0"
+description = "Api for loading and retrieving the IBAN registry according to ISO 13616."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi[standard]==0.113.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pydantic==2.8.0",
+    "pydantic-settings>=2.12.0",
+    "pymongo>=4.15.5",
+    "requests>=2.32.5",
+]
