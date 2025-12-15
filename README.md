@@ -71,6 +71,12 @@ A prebuilt Docker image is available for testing purposes.
 ghcr.io/juanrenatonoh/iban-registry:latest
 ```
 
+### Environment Configuration
+
+```bash
+cp .env.example .env.test
+```
+
 ### Using docker-compose (test)
 
 ```bash
@@ -88,28 +94,16 @@ This mode is intended for:
 
 For local development, use the dedicated development compose file.
 
-```bash
-docker compose -f docker-compose.dev.yml up
-```
-
 ### Environment Configuration
-
-The project uses environment variables for configuration.
-
-- `.env.example` → shared reference for **dev** and **test** modes
-- `.env.dev` → **not committed but used in development mode** (intentionally excluded)
-- `.env.test` → **not committed but used in test mode** (intentionally excluded)
-
-For Development Mode
 
 ```bash
 cp .env.example .env.dev
 ```
 
-For Test Mode
+### Using docker-compose (dev)
 
 ```bash
-cp .env.example .env.test
+docker compose -f docker-compose.dev.yml
 ```
 
 Adjust values as needed (MongoDB connection, ports, etc.).
