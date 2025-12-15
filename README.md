@@ -89,7 +89,7 @@ This mode is intended for:
 For local development, use the dedicated development compose file.
 
 ```bash
-docker compose -f docker-compose.dev.yml up --build
+docker compose -f docker-compose.dev.yml up
 ```
 
 ### Environment Configuration
@@ -97,10 +97,19 @@ docker compose -f docker-compose.dev.yml up --build
 The project uses environment variables for configuration.
 
 - `.env.example` → shared reference for **dev** and **test** modes
-- `.env` → **not committed** (intentionally excluded)
+- `.env.dev` → **not committed but used in development mode** (intentionally excluded)
+- `.env.test` → **not committed but used in test mode** (intentionally excluded)
+
+For Development Mode
 
 ```bash
-cp .env.example .env
+cp .env.example .env.dev
+```
+
+For Test Mode
+
+```bash
+cp .env.example .env.test
 ```
 
 Adjust values as needed (MongoDB connection, ports, etc.).
