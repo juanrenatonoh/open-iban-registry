@@ -68,7 +68,7 @@ A prebuilt Docker image is available for testing purposes.
 
 ### Image
 ```
-ghcr.io/juanrenatonoh/iban-registry:latest
+ghcr.io/juanrenatonoh/open-iban-registry:latest
 ```
 
 ### Environment Configuration

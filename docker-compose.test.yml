@@ -3,7 +3,7 @@ services:
 
   open_iban_registry_test:
     container_name: open_iban_registry_test
-    image: ghcr.io/juanrenatonoh/iban-registry:latest
+    image: ghcr.io/juanrenatonoh/open-iban-registry:latest
     env_file:
       - .env.test
     depends_on:
