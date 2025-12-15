@@ -103,7 +103,7 @@ cp .env.example .env.dev
 ### Using docker-compose (dev)
 
 ```bash
-docker compose -f docker-compose.dev.yml
+docker compose -f docker-compose.dev.yml up
 ```
 
 Adjust values as needed (MongoDB connection, ports, etc.).
