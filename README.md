@@ -147,17 +147,17 @@ The API is currently deployed on **Render** and is intended **only for testing a
 
 **Base URL**
 
-https://iban-registry-latest.onrender.com
+https://open-iban-registry.onrender.com/
 
 
 **OpenAPI Specification**
 
-https://iban-registry-latest.onrender.com/openapi.json
+https://open-iban-registry.onrender.com/openapi.json
 
 
 **Swagger UI**
 
-https://iban-registry-latest.onrender.com/docs
+https://open-iban-registry.onrender.com/docs
 
 
 > ⚠️ **Important**  
